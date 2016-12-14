@@ -1,0 +1,15 @@
+Bolton, R. & Hand, D. (2001). Unsupervised Profiling Methods
+for Fraud Detection. Credit Scoring and Credit Control VII.
+
+Burge, P. & Shawe-Taylor, J. (2001). An Unsupervised Neural
+Network Approach to Profiling the Behaviour of Mobile Phone
+Users for Use in Fraud Detection. Journal of Parallel and
+Distributed Computing 61: 915-925.
+
+Murad, U. & Pinkas, G. (1999). Unsupervised Profiling for
+Identifying Superimposed Fraud. Proc. of PKDD99.
+
+Yamanishi, K., Takeuchi, J., Williams, G. & Milne, P. (2004).
+On-Line Unsupervised Outlier Detection Using Finite Mixtures
+with Discounting Learning Algorithms. Data Mining and
+Knowledge Discovery 8: 275-300.
